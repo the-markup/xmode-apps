@@ -11,7 +11,7 @@ This is not a complete list of the apps that were selling data to X-Mode at the 
 Questions? Write to us: [keegan@themarkup.org](mailto:keegan@themarkup.org) and [alfred@themarkup.org](mailto:alfred@themarkup.org)
 
 # Data
-[xmode-apps.csv](https://github.com/the-markup/xmode-apps/blob/main/xmode_apps.csv) - 15.9 KB. 108 rows. First row is the header (CSV).
+[xmode-apps.csv](https://github.com/the-markup/xmode-apps/blob/master/xmode_apps.csv) - 15.9 KB. 108 rows. First row is the header (CSV).
 
 ## Data Dictionary 
 
